@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Pidio</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="movie_rating">Rating</string>
+    <string name="about_name">Jilan Ablah Hanifah</string>
+    <string name="about_email">jilanablahhanifah97@gmail.com</string>
+    <string name="durasi">durasi</string>
+    <string name="genre">genre</string>
+    <string name="watch_movie">Watch Movie</string>
+    <string name="share_movie">Share </string>
+    <string name="about">About</string>
+
+
+    <string-array name="data_name">
+        <item>Your Eyes Tell</item>
+        <item>Tebusan Dosa</item>
+        <item>Mencuri Raden Saleh</item>
+        <item>The Dark Knight</item>
+        <item>Agak Laen 2024</item>
+        <item>Parasite</item>
+        <item>Avengers: Endgame</item>
+        <item>The Shawshank Redemption</item>
+        <item>Joker</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>our Eyes Tell adalah film Jepang yang disutradarai oleh Takahiro Miki, yang diadaptasi dari novel dengan judul yang sama. Cerita ini mengikuti perjalanan cinta antara Kousei, seorang mantan petinju yang mengalami kebutaan, dan Akari, seorang wanita muda yang terjebak dalam masa lalu yang penuh kesedihan. Kousei berjuang untuk menemukan makna dalam hidupnya setelah kehilangan penglihatan, sementara Akari menghadapi trauma emosional dari tragedi yang telah mengubah hidupnya. Ketika keduanya bertemu, mereka mulai mengembangkan hubungan yang mendalam dan saling menyembuhkan satu sama lain meskipun dikelilingi oleh tantangan yang berat. Film ini menggambarkan bagaimana cinta bisa menjadi sumber kekuatan dalam menghadapi kesulitan hidup. Dengan penggambaran emosional yang kuat dan sinematografi yang indah, Your Eyes Tell mengeksplorasi tema pengorbanan, harapan, dan kerentanan manusia. Selain itu, film ini juga menunjukkan bahwa meskipun seseorang mungkin kehilangan sesuatu yang berharga, seperti penglihatan atau masa lalu yang bahagia, cinta dapat membuka jalan baru untuk menemukan kebahagiaan dan arti dalam hidup.</item>
+        <item>Wening, seorang ibu mengalami kejadian tragis ketika Nirmala, anaknya yang berusia 11 tahun, hilang dalam kecelakaan motor di sebuah jembatan. Kecelakaan itu juga merenggut nyawa Uti Yah, ibunda Wening. Wening merasa sangat berdosa karena membuat ibunya meninggal dan anaknya hanyut di sungai, tapi dia percaya Nirmala masih hidup. Tirta, seorang perempuan kreator podcast misteri, berminat memviralkan tragisnya kehidupan Wening, namun bantuannya malah membuat Tirta menyibak rahasia gelap masa lalu Wening yang mengakibatkan hilangnya Nirmala. Dengan segala upaya dan penuh harapan, Wening mencari Nirmala, termasuk meminta bantuan Tetsuya, peneliti dari Jepang. Wening juga meminta bantuan Mbah Gowa, seorang dukun misterius. Namun, di tengah pencarian, Wening selalu didatangi oleh hantu Uti Yah. Akankah Wening bersatu lagi dengan Nirmala?</item>
+        <item>Mencuri Raden Saleh adalah film yang bercerita tentang sekelompok pencuri yang berencana untuk mencuri lukisan terkenal karya Raden Saleh dari Istana Presiden. Dipimpin oleh karakter bernama Fella, kelompok ini terdiri dari individu-individu dengan keahlian unik, seperti hacker dan negosiator, yang harus merancang strategi cermat untuk menembus keamanan istana dan mendapatkan lukisan tersebut. Film ini menggambarkan perjalanan mereka melalui berbagai rintangan, tantangan, dan konflik internal, menyajikan elemen drama, aksi, dan komedi. Dengan latar belakang yang kaya akan budaya dan seni Indonesia, film ini tidak hanya menyajikan aksi pencurian yang mendebarkan tetapi juga menjelajahi nilai-nilai dan sejarah yang terkandung dalam karya seni yang mereka incar.</item>
+        <item>The Dark Knight adalah film superhero yang disutradarai oleh Christopher Nolan, yang menampilkan Batman (Christian Bale) berhadapan dengan musuh terberatnya, Joker (Heath Ledger). Cerita dimulai dengan perampokan bank berani yang dilakukan oleh Joker, yang memicu serangkaian peristiwa yang membuat Batman bekerja sama dengan Jaksa Wilayah Harvey Dent (Aaron Eckhart) dan Letnan Polisi Jim Gordon (Gary Oldman) untuk melawan kejahatan yang merajalela di Gotham City.
+            Saat Joker melepaskan kekacauan di Gotham, ia menargetkan Batman dan orang-orang terdekatnya, menantang moralitas kota tersebut. Usaha Batman untuk menangkap Joker mengarah pada berbagai tragedi, termasuk disfigurasinya Dent dan kematian Rachel Dawes (Maggie Gyllenhaal), yang dicintai oleh Batman dan Dent. Kekacauan ini mendorong Dent ke jalan gelap, mengubahnya menjadi anti-pahlawan yang penuh dendam, Two-Face.</item>
+        <item>Film Agak Laen mengisahkan tentang empat sahabat, Boris, Jegel, Bene, dan Oki, yang bekerja sebagai penjaga rumah hantu di sebuah pasar malam. Usaha mereka sepi pengunjung karena rumah hantunya dianggap tidak seram. Suatu ketika, seorang pengunjung mengalami serangan jantung dan meninggal dunia di dalam rumah hantu tersebut. Panik, mereka menyembunyikan jasadnya. Tak disangka, arwah pengunjung tersebut malah menghantui rumah hantu dan membuatnya menjadi lebih menyeramkan dari sebelumnya. Keempat sahabat ini pun harus berhadapan dengan konsekuensi dari perbuatan mereka sambil berusaha menjaga agar bisnis rumah hantunya tetap berjalan.</item>
+        <item>Parasite adalah film satir yang mendalam tentang kesenjangan sosial dan perjuangan kelas. Kisah ini berfokus pada keluarga Kim yang miskin yang berusaha menyusup ke dalam kehidupan keluarga Park yang kaya. Dengan kecerdikan dan keterampilan manipulasi, mereka berhasil memasuki dunia baru yang glamour. Namun, cerita ini menunjukkan betapa rapuhnya batas antara dua kelas ini, dan konsekuensi dari keserakahan dan penipuan. Penggambaran yang cerdas tentang perbedaan kelas sosial membuat penonton merenung tentang kondisi masyarakat saat ini. Film ini menyoroti ketidakadilan dan perjuangan manusia dengan cara yang unik dan menggugah pikiran. Parasite disutradarai oleh Bong Joon-ho dan mendapatkan penghargaan internasional, termasuk Oscar untuk Film Terbaik.</item>
+        <item>Avengers: Endgame merupakan penutup epik dari saga Marvel Cinematic Universe yang panjang. Dalam film ini, para Avengers bersatu kembali untuk menghadapi ancaman terbesar mereka, Thanos, yang telah menghancurkan separuh kehidupan di alam semesta. Dengan bantuan beberapa karakter baru dan lama, mereka merencanakan perjalanan waktu untuk mengumpulkan Infinity Stones yang hilang. Film ini tidak hanya menampilkan pertarungan spektakuler, tetapi juga menggali hubungan antara karakter-karakter yang sudah ada. Emosi yang mendalam, pengorbanan, dan kehilangan menjadi tema sentral dalam cerita ini. Setiap karakter memiliki momen penting yang mengungkapkan pertumbuhan dan perjalanan mereka selama ini. Avengers: Endgame disutradarai oleh Anthony dan Joe Russo, dan berhasil menarik perhatian penonton di seluruh dunia.</item>
+        <item>The Shawshank Redemption adalah kisah mendalam tentang harapan dan persahabatan dalam situasi yang paling kelam. Cerita ini mengikuti Andy Dufresne, seorang bankir yang dipenjara secara salah dan dijatuhi hukuman penjara seumur hidup. Di penjara Shawshank, ia bertemu dengan Red, yang diperankan oleh Morgan Freeman, dan bersama mereka membangun persahabatan yang tak terduga. Andy menggunakan kecerdasannya untuk mendapatkan kepercayaan dari para sipir dan memperbaiki keadaan penjara. Film ini menyoroti kekuatan harapan dan ketahanan manusia di tengah penindasan. Dengan alur cerita yang kuat dan karakter yang mendalam, film ini menjadi salah satu yang paling dihargai sepanjang masa. The Shawshank Redemption disutradarai oleh Frank Darabont dan menjadi klasik yang selalu dikenang.</item>
+        <item>Joker adalah film yang menyajikan kisah asal-usul ikonik dari penjahat terkenal DC Comics. Cerita ini berfokus pada Arthur Fleck, seorang komedian gagal yang hidup dalam masyarakat yang tidak peduli. Dalam usahanya untuk diterima dan dicintai, ia mengalami penolakan dan penganiayaan yang berujung pada perubahan drastis dalam kepribadiannya. Film ini menggambarkan perjalanan Arthur menjadi Joker, simbol kekacauan dan ketidakadilan. Dengan nuansa gelap dan atmosfer yang menegangkan, Joker menyelidiki tema kesehatan mental dan dampak masyarakat terhadap individu. Penampilan Heath Ledger sebagai Joker sangat memukau dan dianggap sebagai salah satu yang terbaik dalam sejarah perfilman. Disutradarai oleh Todd Phillips, film ini mendapatkan pujian kritis dan berbagai penghargaan.</item>
+        <item>Spider-Man: Into the Spider-Verse adalah film animasi yang menawarkan pengalaman unik dalam dunia Spider-Man. Kisah ini mengikuti Miles Morales, seorang remaja yang menjadi Spider-Man baru dan belajar tentang tanggung jawabnya. Dalam perjalanannya, Miles bertemu dengan berbagai versi Spider-Man dari dimensi lain, masing-masing dengan kepribadian dan latar belakang yang berbeda. Mereka semua bersatu untuk melawan ancaman besar yang dapat menghancurkan multiverse. Film ini menggabungkan elemen aksi, komedi, dan drama, serta menyoroti tema persahabatan dan penerimaan diri. Dengan gaya animasi yang inovatif dan cerita yang menyentuh, film ini berhasil menarik perhatian penonton dari berbagai kalangan. Spider-Man: Into the Spider-Verse disutradarai oleh Bob Persichetti, Peter Ramsey, dan Rodney Rothman, dan meraih banyak penghargaan.</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>4.9/5</item>
+        <item>5/5</item>
+        <item>5/5</item>
+        <item>4.9/5</item>
+        <item>5/5</item>
+        <item>4.6/5</item>
+        <item>4.5/5</item>
+        <item>4.9/5</item>
+        <item>4.3/5</item>
+        <item>4.8/5</item>
+    </string-array>
+
+    <string-array name="data_duration">
+        <item>2h 3m</item>
+        <item>2h 45m</item>
+        <item>3h 1m</item>
+        <item>2h 32m</item>
+        <item>2h 49m</item>
+        <item>2h 12m</item>
+        <item>3h 1m</item>
+        <item>2h 22m</item>
+        <item>2h 2m</item>
+        <item>1h 57m</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Romance, Drama</item>
+        <item>Action, Horor, Drama</item>
+        <item>Drama, Action</item>
+        <item>Action, Crime, Drama</item>
+        <item>Comedy, Horror</item>
+        <item>Drama, Thriller</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Drama</item>
+        <item>Crime, Drama, Thriller</item>
+        <item>Animation, Action, Adventure</item>
+
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cVn8E3Fxbi8HzYYtaSfsblYC4gl.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oT25TG1HKpBdPqWpZKo2pu3GutZ.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgvF5iA6o2fe2FLGzj6s1PdjWqy.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zoKAggBy8xUEFEHfAXTBvMlLeKy.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg</item>
+    </string-array>
+
+    <string-array name="data_trailer">
+        <item>https://www.youtube.com/watch?v=k_Wv1Oxhkw0</item>
+        <item>https://www.youtube.com/watch?v=kdF-mDniteo</item>
+        <item>https://www.youtube.com/watch?v=8kJsncH6t-s</item>
+        <item>https://www.youtube.com/watch?v=EXeTwQWrcwY</item>
+        <item>https://www.youtube.com/watch?v=_0TixZQ0qt4</item>
+        <item>https://www.youtube.com/watch?v=5xH0HfJHsaY</item>
+        <item>https://www.youtube.com/watch?v=TcMBFSGVi1c</item>
+        <item>https://www.youtube.com/watch?v=6hB3S9bIaco</item>
+        <item>https://www.youtube.com/watch?v=zAGVQLHvwOY</item>
+        <item>https://www.youtube.com/watch?v=g4Hbz2jLxvQ</item>
+    </string-array>
+
+</resources>
